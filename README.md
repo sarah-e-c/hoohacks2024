@@ -1,1 +1,1 @@
-# hoohacks2024
+# hoohacks2024[.gitignore](.gitignore)
